@@ -15,6 +15,10 @@ You're watching a movie and everything is fine — then suddenly someone whisper
 
 Just enable Loudness Equalization with this small app, set a comfortable volume level in Windows, and enjoy watching without constantly reaching for the remote. That's it.
 
+## 📸 Screenshot
+
+![App Screenshot](screenshots/Screenshot_1.png)
+
 ---
 
 ## ✨ Features
